@@ -1,6 +1,7 @@
 // ==UserScript==
-// @name         Grafana screenshot helper
+// @name         grafana-screen-button
 // @namespace    https://github.com/pavel-zeman/grafana-screen-button
+// @description  Grafana screenshot helper
 // @version      0.1
 // @author       Pavel Zeman
 // @include      http://*:3000/*
