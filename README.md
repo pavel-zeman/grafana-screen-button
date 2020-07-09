@@ -3,4 +3,4 @@ Tampermonkey script, which adds button to remove overflows so that a screenshot 
 
 To install follow these steps:
 1. Add https://tampermonkey.net/ into your browser
-2. Install User script from [script.js](https://github.com/pavel-zeman/grafana-screen-button/raw/master/script.js)
+2. Install User script from [script.user.js](https://github.com/pavel-zeman/grafana-screen-button/raw/master/script.user.js)
